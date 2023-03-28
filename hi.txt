@@ -1,2 +1,3 @@
-printf("Old")
-printf("New")
+print("Old")
+print("New")
+print("Past")
